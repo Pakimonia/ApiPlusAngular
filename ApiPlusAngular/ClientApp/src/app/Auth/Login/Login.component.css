@@ -1,0 +1,117 @@
+body{
+    background: rgb(39,80,189);
+    background: linear-gradient(45deg, rgba(39,80,189,1) 0%, rgba(3,215,252,1) 100%);  
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.signInUpBlock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+
+
+.signInUpForm{
+    background-color: white;
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+
+
+.signInUpBlock form{
+    padding: 50px;
+}
+
+@media(max-width:992px){
+    .signInUpBlock{
+        padding: 0px !important;
+    }
+    .signInUpBlock form{
+        padding: 20px;
+    }
+}
+
+.headerForm{
+    color: white;
+    background-color: black;
+    padding-top: -5px !important;
+    
+}
+
+.headerForm h2{
+    font-size: 48px;
+    font-weight: bold;
+    margin-left: -5px !important;
+}
+
+
+.imageBlcok{
+    text-align: center;
+    color: white;
+    height: 450px;
+    padding-top: auto;
+    padding-bottom: auto;
+    background-image: url('https://i.ibb.co/tDLqQtj/bg.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.imageBlcok hr{
+    background-color: white;
+    height: 2px;
+    width: 30%;
+    border-radius: 15%;
+}
+
+.signInUpForm .btnRectBlack{
+    margin-top: 15px;
+    width: 30%;
+}
+
+.btnRectBlack{
+    background-color: black;
+    color: white;
+    border-radius: 0px !important;
+    border: none;
+
+}
+
+.btnRectBlack:hover{
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+}
+
+
+.rectInput{
+    border: 2px solid black;
+    border-radius: 0px !important;
+}
+
+.rectInput:focus{
+    outline: none !important;
+    border-color: black;
+    box-shadow: 0 0 0px #ffffff00;
+}
+
+.rect{
+    border-radius: 0px !important;
+}
+
+.form-links{
+    padding-top: 25px;
+}
+
+.form-links a:hover{
+    text-decoration: none;
+}
+
+.form-links p{
+    margin-bottom: 0px !important;
+}

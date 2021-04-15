@@ -1,0 +1,30 @@
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\Project.Domain\bin\Debug\net5.0\Project.Domain.deps.json
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\Project.Domain\bin\Debug\net5.0\Project.Domain.dll
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\Project.Domain\bin\Debug\net5.0\ref\Project.Domain.dll
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\Project.Domain\bin\Debug\net5.0\Project.Domain.pdb
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\Project.Domain\bin\Debug\net5.0\DataAccess.dll
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\Project.Domain\bin\Debug\net5.0\DataAccess.pdb
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\Project.Domain\obj\Debug\net5.0\Project.Domain.csprojAssemblyReference.cache
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\Project.Domain\obj\Debug\net5.0\Project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\Project.Domain\obj\Debug\net5.0\Project.Domain.AssemblyInfoInputs.cache
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\Project.Domain\obj\Debug\net5.0\Project.Domain.AssemblyInfo.cs
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\Project.Domain\obj\Debug\net5.0\Project.Domain.csproj.CoreCompileInputs.cache
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\Project.Domain\obj\Debug\net5.0\Project.Domain.csproj.CopyComplete
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\Project.Domain\obj\Debug\net5.0\Project.Domain.dll
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\Project.Domain\obj\Debug\net5.0\ref\Project.Domain.dll
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\Project.Domain\obj\Debug\net5.0\Project.Domain.pdb
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\Project.Domain\bin\Debug\net5.0\Project.Domain.deps.json
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\Project.Domain\bin\Debug\net5.0\Project.Domain.dll
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\Project.Domain\bin\Debug\net5.0\ref\Project.Domain.dll
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\Project.Domain\bin\Debug\net5.0\Project.Domain.pdb
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\Project.Domain\bin\Debug\net5.0\DataAccess.dll
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\Project.Domain\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\Project.Domain\obj\Debug\net5.0\Project.Domain.csprojAssemblyReference.cache
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\Project.Domain\obj\Debug\net5.0\Project.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\Project.Domain\obj\Debug\net5.0\Project.Domain.AssemblyInfoInputs.cache
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\Project.Domain\obj\Debug\net5.0\Project.Domain.AssemblyInfo.cs
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\Project.Domain\obj\Debug\net5.0\Project.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\Project.Domain\obj\Debug\net5.0\Project.Domain.csproj.CopyComplete
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\Project.Domain\obj\Debug\net5.0\Project.Domain.dll
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\Project.Domain\obj\Debug\net5.0\ref\Project.Domain.dll
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\Project.Domain\obj\Debug\net5.0\Project.Domain.pdb

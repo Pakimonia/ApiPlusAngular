@@ -1,0 +1,24 @@
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\DataAccess.DTO\bin\Debug\net5.0\DataAccess.DTO.deps.json
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\DataAccess.DTO\bin\Debug\net5.0\DataAccess.DTO.dll
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\DataAccess.DTO\bin\Debug\net5.0\ref\DataAccess.DTO.dll
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\DataAccess.DTO\bin\Debug\net5.0\DataAccess.DTO.pdb
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\DataAccess.DTO\obj\Debug\net5.0\DataAccess.DTO.csprojAssemblyReference.cache
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\DataAccess.DTO\obj\Debug\net5.0\DataAccess.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\DataAccess.DTO\obj\Debug\net5.0\DataAccess.DTO.AssemblyInfoInputs.cache
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\DataAccess.DTO\obj\Debug\net5.0\DataAccess.DTO.AssemblyInfo.cs
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\DataAccess.DTO\obj\Debug\net5.0\DataAccess.DTO.csproj.CoreCompileInputs.cache
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\DataAccess.DTO\obj\Debug\net5.0\DataAccess.DTO.dll
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\DataAccess.DTO\obj\Debug\net5.0\ref\DataAccess.DTO.dll
+D:\Mikola\ШАГ\4-й semester\JWT\AngularBaseAuth\DataAccess.DTO\obj\Debug\net5.0\DataAccess.DTO.pdb
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\DataAccess.DTO\bin\Debug\net5.0\DataAccess.DTO.deps.json
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\DataAccess.DTO\bin\Debug\net5.0\DataAccess.DTO.dll
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\DataAccess.DTO\bin\Debug\net5.0\ref\DataAccess.DTO.dll
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\DataAccess.DTO\bin\Debug\net5.0\DataAccess.DTO.pdb
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\DataAccess.DTO\obj\Debug\net5.0\DataAccess.DTO.csprojAssemblyReference.cache
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\DataAccess.DTO\obj\Debug\net5.0\DataAccess.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\DataAccess.DTO\obj\Debug\net5.0\DataAccess.DTO.AssemblyInfoInputs.cache
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\DataAccess.DTO\obj\Debug\net5.0\DataAccess.DTO.AssemblyInfo.cs
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\DataAccess.DTO\obj\Debug\net5.0\DataAccess.DTO.csproj.CoreCompileInputs.cache
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\DataAccess.DTO\obj\Debug\net5.0\DataAccess.DTO.dll
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\DataAccess.DTO\obj\Debug\net5.0\ref\DataAccess.DTO.dll
+C:\Users\gnatyukDima\Desktop\ApiPlusAngular-master\DataAccess.DTO\obj\Debug\net5.0\DataAccess.DTO.pdb
